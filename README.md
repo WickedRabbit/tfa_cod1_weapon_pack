@@ -5,5 +5,6 @@ A project to transfer weapons from the classic part of the game Call of Duty.
 ## List of ready-made weapons
 
   ```
-NONE
+SMG:
+  - PPSh-41
   ```
