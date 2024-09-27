@@ -1,1 +1,3 @@
-# -TFA-Call-of-Duty-1---Weapon-Pack
+# [TFA] Call of Duty 1 - Weapon Pack
+
+Pending...
