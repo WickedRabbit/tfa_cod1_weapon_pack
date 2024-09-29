@@ -7,4 +7,6 @@ A project to transfer weapons from the classic part of the game Call of Duty.
   ```
 SMG:
   - PPSh-41
+  - Thompson
+  - MP-40
   ```
