@@ -10,4 +10,6 @@ SMG:
   - Thompson
   - MP-40
   - STEN
+AUTOMATIC RIFLE:
+  - MP-44 (StG-44)
   ```
