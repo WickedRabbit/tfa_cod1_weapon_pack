@@ -9,4 +9,5 @@ SMG:
   - PPSh-41
   - Thompson
   - MP-40
+  - STEN
   ```
